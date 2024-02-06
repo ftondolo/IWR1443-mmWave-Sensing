@@ -1,5 +1,5 @@
 # IWR1443-mmWave-Sensing
-A Python script to graph and save data from a IWR1443Boost dev board 
+The most comprehensive python script to graph and save data from a IWR1443Boost dev board on Github
 
 ## How It Works
 1. Plug in your IWR1443 Development Board, this repository specifically has been tested with the IWR143Boost board running SDK 2.1
